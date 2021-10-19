@@ -1,14 +1,14 @@
 {
     "manifest": {
         "author": "Ishikaze#8709",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "name": "Edo-murasaki",
         "updater": "https:\/\/raw.githubusercontent.com\/Ishikaze\/Aliucord-Themes\/main\/Murasaki\/edo-murasaki.json"
     },
     "background": {
         "overlay_alpha": 0,
         "blur_radius": 0,
-        "url": "https:\/\/cdn.discordapp.com\/attachments\/893166699682078793\/899537634441977907\/cute-pixels-aesthetic-Favim.com-6916550.gif"
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/900048334822187038\/900063677162606622\/Untitled162_20211019235127.png"
     },
     "fonts": {},
     "simple_colors": {
@@ -35,18 +35,18 @@
         "primary_dark_460": -11665332,
         "primary_dark_500": -12320702,
         "primary_dark_530": -13303757,
-        "primary_dark_600": -1760623587,
+        "primary_dark_600": -1743846371,
         "primary_dark_630": -451540699,
-        "primary_dark_660": -233305555,
+        "primary_dark_660": -904394195,
         "primary_dark_700": 2097874456,
         "primary_dark_730": -233567708,
         "primary_dark_760": -198426,
         "primary_dark_800": -233634773,
         "primary_dark_830": -1445126,
-        "primary_dark_860": -1443346,
+        "primary_dark_860": -198426,
         "primary_dark_900": -14281670,
         "primary_dark": -8110684,
-        "uikit_btn_bg_color_selector_brand": -1445126,
+        "uikit_btn_bg_color_selector_brand": -7258282,
         "uikit_btn_bg_color_selector_green": -11956363,
         "uikit_btn_bg_color_selector_red": -7197872,
         "uikit_btn_bg_color_selector_white": -268563,
@@ -80,6 +80,7 @@
         "empty_pins_dark": -11189379,
         "ic_sidebar_notifications_off_dark_24dp": -7902523,
         "ic_sidebar_notifications_on_dark_24dp": -7902523,
-        "ic_sidebar_search_24dp": -6650678
+        "ic_sidebar_search_24dp": -6650678,
+        "ic_keyboard_24dp": -7902523
     }
 }
