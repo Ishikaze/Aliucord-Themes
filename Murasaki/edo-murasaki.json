@@ -2,7 +2,8 @@
     "manifest": {
         "author": "Ishikaze#8709",
         "version": "1.0.0",
-        "name": "Edo-murasaki"
+        "name": "Edo-murasaki",
+        "updater": "https:\/\/raw.githubusercontent.com\/Ishikaze\/Aliucord-Themes\/main\/Murasaki\/edo-murasaki.json"
     },
     "background": {
         "overlay_alpha": 0,
