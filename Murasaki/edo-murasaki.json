@@ -1,7 +1,7 @@
 {
     "manifest": {
         "author": "Ishikaze#8709",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "name": "Edo-murasaki",
         "updater": "https:\/\/raw.githubusercontent.com\/Ishikaze\/Aliucord-Themes\/main\/Murasaki\/edo-murasaki.json"
     },
@@ -51,7 +51,9 @@
         "uikit_btn_bg_color_selector_red": -7197872,
         "uikit_btn_bg_color_selector_white": -268563,
         "uikit_btn_text_color_selector": -198426,
-        "uikit_settings_item_text_color_dark": -4874542
+        "uikit_settings_item_text_color_dark": -3625217,
+        "brand_500": -7902523,
+        "link": -5470465
     },
     "drawable_tints": {
         "ic_channel_text": -7902523,
@@ -81,6 +83,11 @@
         "ic_sidebar_notifications_off_dark_24dp": -7902523,
         "ic_sidebar_notifications_on_dark_24dp": -7902523,
         "ic_sidebar_search_24dp": -6650678,
-        "ic_keyboard_24dp": -7902523
+        "ic_keyboard_24dp": -7902523,
+        "ic_file_download_white_24dp": -7902523,
+        "ic_link_white_24dp": -7902523,
+        "ic_open_in_browser_white_24dp": -7902523,
+        "ic_share_white_24dp": -7902523,
+        "ic_guild_folder": -7902523
     }
 }
