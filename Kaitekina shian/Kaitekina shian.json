@@ -2,7 +2,8 @@
     "manifest": {
         "author": "Ishikaze#8709",
         "version": "1.0.0",
-        "name": "Kaitekina shian"
+        "name": "Kaitekina shian",
+        "updater": "https:\/\/raw.githubusercontent.com\/Ishikaze\/Aliucord-Themes\/main\/Kaitekina%20shian\/Kaitekina%20shian.json"
     },
     "background": {
         "url": "https:\/\/cdn.discordapp.com\/attachments\/893167771687452732\/936562349719048202\/images-1.jpeg",
