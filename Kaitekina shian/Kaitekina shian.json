@@ -1,7 +1,7 @@
 {
     "manifest": {
         "author": "Ishikaze#8709",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "name": "Kaitekina shian",
         "updater": "https:\/\/raw.githubusercontent.com\/Ishikaze\/Aliucord-Themes\/main\/Kaitekina%20shian\/Kaitekina%20shian.json"
     },
@@ -58,9 +58,9 @@
         "user_leave": "https:\/\/cdn.discordapp.com\/attachments\/893166699682078793\/936577994053529600\/discord_userleft.mp3",
         "stream_user_joined": "https:\/\/cdn.discordapp.com\/attachments\/893166699682078793\/936577910926626826\/discord_watch.mp3",
         "user_moved": "https:\/\/cdn.discordapp.com\/attachments\/893166699682078793\/936583981099540530\/discord_moved.mp3",
-        "call_ringing": "https:\/\/cdn.discordapp.com\/attachments\/893166699682078793\/936584083335680071\/Say_it_discord_call_outgoing.mp3",
-        "call_calling": "https:\/\/cdn.discordapp.com\/attachments\/893166699682078793\/936584053010886666\/Say_it_discord_call.mp3",
         "mute": "https:\/\/cdn.discordapp.com\/attachments\/893166699682078793\/936594893936140318\/discord_mute.mp3",
-        "unmute": "https:\/\/cdn.discordapp.com\/attachments\/893166699682078793\/936594935212277810\/discord_unmute.mp3"
+        "unmute": "https:\/\/cdn.discordapp.com\/attachments\/893166699682078793\/936594935212277810\/discord_unmute.mp3",
+        "call_calling": "https:\/\/cdn.discordapp.com\/attachments\/893166699682078793\/936647947557421077\/Say_it_discord_call_outgoing_fixed.mp3",
+        "call_ringing": "https:\/\/cdn.discordapp.com\/attachments\/893166699682078793\/936647915588448337\/Say_it_discord_call_fixed.mp3"
     }
 }
